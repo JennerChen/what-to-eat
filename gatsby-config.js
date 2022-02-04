@@ -36,8 +36,8 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "我家菜谱",
+    description: "beaf 菜谱 点菜",
   },
   pathPrefix: "/gatsby-contentful-starter",
   plugins: [
